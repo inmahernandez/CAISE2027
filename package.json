@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "@eslint/config-inspector": "3.4.0",
-    "@iconify/json": "2.2.525",
-    "@types/node": "26.4.1",
+    "@iconify/json": "2.2.526",
+    "@types/node": "26.5.1",
     "eslint": "10.10.0",
     "jiti": "2.7.0",
     "type-fest": "5.9.0",
